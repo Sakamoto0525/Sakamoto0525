@@ -1,8 +1,8 @@
 ### About me
 
-Name: Masaya Sakamoto
-Occupation: Web engineer
-Company: Imejin Co., Ltd.
+- Name: Masaya Sakamoto
+- Occupation: Web engineer
+- Company: Imejin Co., Ltd.
 
 ### My Github Profile Trophy
 
