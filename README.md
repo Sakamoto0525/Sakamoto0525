@@ -1,10 +1,10 @@
-## About me
+# About me
 
 - Name: Masaya Sakamoto
 - Occupation: Web engineer
 - Company: Imejin Co., Ltd.
 
-## My Github Profile Trophy
+# My Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sakamoto0525)](https://github.com/ryo-ma/github-profile-trophy)
 
