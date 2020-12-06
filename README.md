@@ -10,7 +10,13 @@
 
 # My GitHub works
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakamoto0525&count_private=true&show_icons=true&theme=buefy)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto0525&layout=compact&theme=buefy)
+
+# My Qiita works
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/M_S_0525/posts.svg)](http://qiita.com/M_S_0525) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/M_S_0525/contributions.svg)](http://qiita.com/M_S_0525) [![My Qiita followers](https://qiita-badge.apiapi.app/s/M_S_0525/followers.svg)](http://qiita.com/M_S_0525)
+
 
 <!--
 **Sakamoto0525/Sakamoto0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
