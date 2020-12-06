@@ -1,4 +1,6 @@
-### Hi there 👋
+### My Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakamoto0525)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Sakamoto0525/Sakamoto0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
