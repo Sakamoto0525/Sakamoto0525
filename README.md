@@ -2,7 +2,7 @@
 
 - Name: Masaya Sakamoto
 - Occupation: Web engineer
-- Company: Imejin Co., Ltd.
+- Company: Animalife Co., Ltd.
 
 # My Github Profile Trophy
 
